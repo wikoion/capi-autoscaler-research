@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,final_nodes,cpu_util_pct,mem_util_pct,timed_out
+cas,small-10,10,small,1,small-10-1-bff56a,155.6308326970002,11.469265800000358,155.63082988099995,155.6308326970002,3,69.2,25.6,False

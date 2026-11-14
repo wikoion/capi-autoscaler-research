@@ -1,0 +1,13 @@
+autoscaler,scenario,run_id,attempt,status,objective,unplaced,used_beam,solve_time_secs
+capi-autoscaler,unconstrained-25,unconstrained-25-1-aa77fa,1,Optimal,107907000.0,0,false,0.64
+capi-autoscaler,unconstrained-25,unconstrained-25-1-aa77fa,2,Optimal,21202000.0,0,false,0.01
+capi-autoscaler,unconstrained-25,unconstrained-25-2-f79c6d,1,Optimal,107907000.0,0,false,1.04
+capi-autoscaler,unconstrained-25,unconstrained-25-2-f79c6d,2,Optimal,10601000.0,0,false,0.01
+capi-autoscaler,unconstrained-50,unconstrained-50-1-412138,1,Optimal,181512000.0,0,false,18.42
+capi-autoscaler,unconstrained-50,unconstrained-50-1-412138,2,Optimal,31803000.0,0,false,0.04
+capi-autoscaler,unconstrained-50,unconstrained-50-2-7641f5,1,Optimal,181512000.0,0,false,18.2
+capi-autoscaler,unconstrained-50,unconstrained-50-2-7641f5,2,Optimal,10601000.0,0,false,0.02
+capi-autoscaler,unconstrained-100,unconstrained-100-1-f1ea1f,1,Feasible,344924000.0,0,false,30.07
+capi-autoscaler,unconstrained-100,unconstrained-100-1-f1ea1f,2,Optimal,60504000.0,0,false,0.09
+capi-autoscaler,unconstrained-100,unconstrained-100-2-cbbec1,1,Feasible,344924000.0,0,false,30.08
+capi-autoscaler,unconstrained-100,unconstrained-100-2-cbbec1,2,Optimal,45404000.0,0,false,0.03

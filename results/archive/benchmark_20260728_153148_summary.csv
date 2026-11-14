@@ -1,0 +1,10 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+karpenter,prod-mix-20,20,prod-mix,1,prod-mix-20-1-85964f,75.1753842390026,5.426342663002288,75.17537829000139,75.1753842390026,6,61.5,58.4,4.062,c5.2xlarge=1;c5.xlarge=1;m5.4xlarge=2;r5.4xlarge=2,False
+karpenter,prod-mix-20,20,prod-mix,2,prod-mix-20-2-43c41d,69.9199946230001,5.401392169998871,69.91999161199783,69.9199946230001,6,61.5,50.2,4.302,c5.2xlarge=1;c5.xlarge=1;m5.4xlarge=1;r5.4xlarge=3,False
+karpenter,prod-mix-20,20,prod-mix,3,prod-mix-20-3-37347d,70.46241492400077,5.44288265400246,70.46241182499944,70.46241492400077,8,48.7,39.0,5.48,c5.2xlarge=1;c5.xlarge=2;m5.4xlarge=1;r5.4xlarge=4,False
+karpenter,prod-mix-50,50,prod-mix,1,prod-mix-50-1-171984,103.03060320799705,5.662198537000222,103.03060071099753,103.03060320799705,14,58.8,44.1,10.292,c5.2xlarge=1;c5.xlarge=2;m5.4xlarge=3;r5.4xlarge=7;r5.xlarge=1,False
+karpenter,prod-mix-50,50,prod-mix,2,prod-mix-50-2-08cca3,110.2791396620014,5.517711561002216,110.27913549400182,110.2791396620014,15,56.3,43.5,10.632,c5.2xlarge=2;c5.xlarge=2;m5.4xlarge=3;r5.4xlarge=7;r5.xlarge=1,False
+karpenter,prod-mix-50,50,prod-mix,3,prod-mix-50-3-63d328,89.82998761999988,11.388532975000999,89.82998509900062,89.82998761999988,13,63.0,46.3,9.694,c5.2xlarge=2;c5.xlarge=1;m5.4xlarge=2;r5.4xlarge=7;r5.xlarge=1,False
+karpenter,prod-mix-100,100,prod-mix,1,prod-mix-100-1-315784,90.7632714370011,5.707062850000511,90.76326859400069,90.7632714370011,23,72.5,61.1,15.574,c5.2xlarge=4;c5.xlarge=3;m5.4xlarge=8;r5.2xlarge=1;r5.4xlarge=7,False
+karpenter,prod-mix-100,100,prod-mix,2,prod-mix-100-2-d6b49d,442.790169453001,5.966993799000193,442.79016784000123,442.790169453001,20,71.4,50.2,16.88,c5.2xlarge=2;m5.4xlarge=6;r5.2xlarge=1;r5.4xlarge=11,False
+karpenter,prod-mix-100,100,prod-mix,3,prod-mix-100-3-58a60b,92.59435311699781,5.839128716997948,92.59435110100094,92.59435311699781,22,69.6,49.8,17.22,c5.2xlarge=2;c5.xlarge=2;m5.4xlarge=6;r5.2xlarge=1;r5.4xlarge=11,False

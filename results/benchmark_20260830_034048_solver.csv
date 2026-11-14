@@ -1,0 +1,16 @@
+autoscaler,scenario,run_id,attempt,status,objective,unplaced,used_beam,solve_time_secs
+capi-autoscaler,light-constrained-25,light-constrained-25-1-d50484,1,Optimal,81427000.0,0,false,0.63
+capi-autoscaler,light-constrained-25,light-constrained-25-1-d50484,2,Optimal,10601000.0,0,false,0.09
+capi-autoscaler,light-constrained-25,light-constrained-25-1-d50484,3,Optimal,10601000.0,0,false,0.05
+capi-autoscaler,light-constrained-25,light-constrained-25-2-99b934,1,Optimal,81427000.0,0,false,0.6
+capi-autoscaler,light-constrained-25,light-constrained-25-2-99b934,2,Optimal,21202000.0,0,false,0.01
+capi-autoscaler,light-constrained-50,light-constrained-50-1-0bae51,1,Optimal,162854000.0,0,false,6.32
+capi-autoscaler,light-constrained-50,light-constrained-50-1-0bae51,2,Optimal,142210000.0,0,false,1.14
+capi-autoscaler,light-constrained-50,light-constrained-50-2-df722d,1,Optimal,162854000.0,0,false,5.66
+capi-autoscaler,light-constrained-50,light-constrained-50-2-df722d,2,Optimal,49804000.0,0,false,0.09
+capi-autoscaler,light-constrained-100,light-constrained-100-1-cba412,1,Feasible,320169000.0,0,false,30.1
+capi-autoscaler,light-constrained-100,light-constrained-100-1-cba412,2,Optimal,81706000.0,0,false,0.23
+capi-autoscaler,light-constrained-100,light-constrained-100-1-cba412,3,Optimal,81706000.0,0,false,0.24
+capi-autoscaler,light-constrained-100,light-constrained-100-2-961387,1,Feasible,328505000.0,0,false,30.09
+capi-autoscaler,light-constrained-100,light-constrained-100-2-961387,2,Optimal,31803000.0,0,false,0.09
+capi-autoscaler,light-constrained-100,light-constrained-100-2-961387,3,Optimal,31803000.0,0,false,0.12

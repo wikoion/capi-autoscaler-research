@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,final_nodes,cpu_util_pct,mem_util_pct,timed_out
+karpenter,small-10,10,small,1,small-10-1-f4eeda,57.65558350200081,5.314304731000448,57.655581868999434,57.65558350200081,3,92.4,29.5,False

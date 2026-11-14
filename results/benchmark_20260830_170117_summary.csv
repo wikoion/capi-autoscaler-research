@@ -1,0 +1,7 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+karpenter,light-constrained-25,25,light-constrained,1,light-constrained-25-1-778072,52.82623257601517,5.374559549993137,52.826230911014136,52.82623257601517,7,82.1,38.4,0.8616,c5.2xlarge=1;m6i.large=5;t3.medium=1,False
+karpenter,light-constrained-25,25,light-constrained,2,light-constrained-25-2-654401,52.83890823100228,5.374507363012526,52.83890551200602,52.83890823100228,7,82.1,38.4,0.8616,c5.2xlarge=1;m6i.large=5;t3.medium=1,False
+karpenter,light-constrained-50,50,light-constrained,1,light-constrained-50-1-37a74e,42.858648875990184,5.46035178200691,42.8586459219805,42.858648875990184,13,82.0,38.3,1.81,c5.2xlarge=2;c5.xlarge=1;m6i.large=10,False
+karpenter,light-constrained-50,50,light-constrained,2,light-constrained-50-2-e5631f,84.41456272499636,5.382290545996511,84.41455839399714,84.41456272499636,12,77.9,38.1,1.884,c5.2xlarge=3;m6i.large=9,False
+karpenter,light-constrained-100,100,light-constrained,1,light-constrained-100-1-9a556d,77.4246023040032,5.47224833801738,77.42459900700487,77.4246023040032,29,74.5,33.7,4.004,c5.2xlarge=5;m6i.large=24,False
+karpenter,light-constrained-100,100,light-constrained,2,light-constrained-100-2-e0b1e1,76.61374102899572,5.479648475011345,76.61373808200005,76.61374102899572,25,81.9,38.1,3.62,c5.2xlarge=5;m6i.large=20,False

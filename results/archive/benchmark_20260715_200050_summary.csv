@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,timed_out
+karpenter,heavy-mixed-20,20,heavy-mixed,1,heavy-mixed-20-1-373cdd,42.74520841000049,5.403375590998621,42.745206348001375,42.74520841000049,5,88.0,35.6,False

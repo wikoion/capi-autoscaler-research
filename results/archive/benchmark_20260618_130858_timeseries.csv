@@ -1,0 +1,17 @@
+autoscaler,scenario,run_id,elapsed_s,ready_nodes,pending_pods,scheduled_pods,running_pods,cpu_requested_m,cpu_allocatable_m,mem_requested_mi,mem_allocatable_mi
+capi-autoscaler,small-10,small-10-1-d578de,1.2,1,10,0,0,3150,2000,304,3736
+capi-autoscaler,small-10,small-10-1-d578de,7.0,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,12.8,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,18.5,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,24.1,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,29.7,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,35.3,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,40.7,1,10,0,0,5650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,46.1,1,10,0,0,3650,2000,2864,3736
+capi-autoscaler,small-10,small-10-1-d578de,51.6,1,10,0,0,3900,4000,2864,7472
+capi-autoscaler,small-10,small-10-1-d578de,57.3,1,10,0,0,4150,6000,2864,11208
+capi-autoscaler,small-10,small-10-1-d578de,63.0,3,10,0,0,4150,6000,2864,11208
+capi-autoscaler,small-10,small-10-1-d578de,68.6,3,10,0,0,4150,6000,2864,11208
+capi-autoscaler,small-10,small-10-1-d578de,74.2,3,8,2,2,4150,6000,2864,11208
+capi-autoscaler,small-10,small-10-1-d578de,79.8,3,0,10,10,4150,6000,2864,11208
+capi-autoscaler,small-10,small-10-1-d578de,85.3,3,0,10,10,4150,6000,2864,11208

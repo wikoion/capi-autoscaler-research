@@ -1,0 +1,10 @@
+autoscaler,scenario,run_id,elapsed_s,ready_nodes,worker_nodes,pending_pods,scheduled_pods,running_pods,workload_cpu_requested_m,worker_cpu_allocatable_m,workload_mem_requested_mi,worker_mem_allocatable_mi
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,0.6,2,0,0,0,0,0,0,0,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,5.9,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,11.2,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,16.5,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,21.9,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,27.2,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,32.5,2,0,20,0,0,15500,0,22016,0
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,37.7,6,4,15,5,5,15500,15680,22016,58520
+karpenter,heavy-mixed-20,heavy-mixed-20-1-373cdd,43.0,7,5,0,20,20,15500,17610,22016,61817

@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+capi-autoscaler,heavy-constrained-25,25,heavy-constrained,1,heavy-constrained-25-1-34704e,183.24511008302215,5.267439597984776,183.24510885903146,183.24511008302215,9,67.3,65.4,1.201,m6i.large=7;r5.2xlarge=1;r5.xlarge=1,False

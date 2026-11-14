@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+karpenter-consolidation,unconstrained-25,25,unconstrained,1,unconstrained-25-1-2589ae,47.786581405991456,5.367047295003431,47.78657994000241,47.786581405991456,6,68.5,60.8,1.488,m6i.large=5;r5.4xlarge=1,False

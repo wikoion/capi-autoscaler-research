@@ -1,0 +1,3 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+karpenter,unconstrained-50,50,unconstrained,1,unconstrained-50-1-91a476,53.84485016899998,5.494980252988171,53.844848589011235,53.84485016899998,15,67.0,63.5,2.533,m6i.large=13;r5.2xlarge=1;r5.4xlarge=1,False
+karpenter,unconstrained-50,50,unconstrained,2,unconstrained-50-2-f6a2b2,70.1636470349913,5.4611095169966575,70.16364148599678,70.1636470349913,17,62.1,60.4,2.725,m6i.large=15;r5.2xlarge=1;r5.4xlarge=1,False

@@ -1,0 +1,4 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+karpenter-consolidation,light-constrained-25,25,light-constrained,1,light-constrained-25-1-02511d,74.08807679201709,5.377422179008136,74.08807440599776,74.08807679201709,7,82.1,38.3,0.8616,c5.2xlarge=1;m6i.large=5;t3.medium=1,False
+karpenter-consolidation,light-constrained-50,50,light-constrained,1,light-constrained-50-1-af6667,66.84735497101792,5.3831119509995915,66.84735278101289,66.84735497101792,13,82.0,38.3,1.81,c5.2xlarge=2;c5.xlarge=1;m6i.large=10,False
+karpenter-consolidation,light-constrained-100,100,light-constrained,1,light-constrained-100-1-e4863f,77.32231415697606,5.572947177977767,77.32231116498588,77.32231415697606,27,84.2,40.4,3.296,c5.2xlarge=4;m6i.large=18;t3.medium=5,False

@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,final_nodes,cpu_util_pct,mem_util_pct,timed_out
+capi-autoscaler,small-10,10,small,1,small-10-1-61db9d,128.88988683799835,5.471449245000258,128.88988464299837,128.88988683799835,3,69.2,25.6,False

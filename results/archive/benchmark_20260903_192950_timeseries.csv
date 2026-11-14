@@ -1,0 +1,1 @@
+autoscaler,scenario,run_id,elapsed_s,ready_nodes,worker_nodes,pending_pods,scheduled_pods,running_pods,workload_cpu_requested_m,worker_cpu_allocatable_m,workload_mem_requested_mi,worker_mem_allocatable_mi

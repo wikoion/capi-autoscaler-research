@@ -1,0 +1,2 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,timed_out
+cas,prod-mix-100,100,prod-mix,1,prod-mix-100-1-9e2a81,N/A,6.265857874001085,N/A,N/A,20,64.9,56.4,True

@@ -1,0 +1,7 @@
+# Python caches and build artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+/analysis/.venv
+/analysis/exports
+/analysis/.ipynb_checkpoints

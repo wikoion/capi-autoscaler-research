@@ -1,0 +1,4 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+capi-autoscaler,prod-mix-100,100,prod-mix,1,prod-mix-100-1-c179ed,604.3368334760016,5.655484040005831,604.3368318560024,604.3368334760016,23,64.8,54.7,17.142,c5.2xlarge=3;c5.4xlarge=2;c5.xlarge=1;m5.2xlarge=1;m5.4xlarge=8;r5.4xlarge=8,False
+capi-autoscaler,prod-mix-100,100,prod-mix,2,prod-mix-100-2-bf2bb8,178.33283741099876,6.531507779000094,178.33283386399853,178.33283741099876,26,70.9,57.1,15.7344,c5.2xlarge=2;c5.xlarge=4;m5.4xlarge=8;r5.4xlarge=8;t3.medium=4,False
+capi-autoscaler,prod-mix-100,100,prod-mix,3,prod-mix-100-3-2a3892,N/A,5.923948933996144,N/A,N/A,2,874.6,640.3,1.348,c5.2xlarge=1;r5.4xlarge=1,True

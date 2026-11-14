@@ -1,0 +1,2 @@
+autoscaler,scenario,run_id,attempt,status,objective,unplaced,used_beam,solve_time_secs
+capi-autoscaler,light-constrained-25,light-constrained-25-1-065bc3,1,Optimal,81427000.0,0,false,0.53

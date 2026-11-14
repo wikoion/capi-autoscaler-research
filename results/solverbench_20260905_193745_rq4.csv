@@ -1,0 +1,7 @@
+sweep,arm,budget_secs,profile,pod_count,md_count,slots_level,rep,instance_id,num_pods,num_mds,total_slots,num_workers,success,status,objective,solve_time_secs,wall_time_secs,unplaced_pods,beam_used,beam_fallback_used,attempts_run,winning_attempt,nodes_provisioned,cost_per_hour,best_objective_bound,optimality_gap
+rq4,cpsat-30,30,heavy-constrained,100,15,high,1,heavy-constrained-100-15-high,100,15,154,16,true,Feasible,431735000,30.351069510000002,30.417553718,0,false,false,1,1,35,3.9669999999999996,333605000,0.2272922047089071
+rq4,cpsat-30,30,heavy-constrained,100,15,high,2,heavy-constrained-100-15-high,100,15,154,16,true,Feasible,364627000,30.152988581000002,30.223919194,0,false,false,1,1,27,3.3760000000000003,342014000,0.06201680073060964
+rq4,cpsat-30,30,heavy-constrained,100,15,high,3,heavy-constrained-100-15-high,100,15,154,16,true,Feasible,428827000,32.113490105000004,32.169471872,0,false,false,1,1,27,4.018000000000001,347801000,0.1889479906815569
+rq4,cpsat-600,600,heavy-constrained,100,15,high,1,heavy-constrained-100-15-high,100,15,154,16,true,Optimal,354026000,49.391769019,49.452486904,0,false,false,1,1,26,3.2800000000000002,354026000,0
+rq4,cpsat-600,600,heavy-constrained,100,15,high,2,heavy-constrained-100-15-high,100,15,154,16,true,Optimal,354026000,40.589035455,40.627533032,0,false,false,1,1,26,3.28,354026000,0
+rq4,cpsat-600,600,heavy-constrained,100,15,high,3,heavy-constrained-100-15-high,100,15,154,16,true,Optimal,354026000,118.776039709,118.84675655,0,false,false,1,1,26,3.2800000000000002,354026000,0

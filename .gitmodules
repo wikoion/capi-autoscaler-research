@@ -1,0 +1,3 @@
+[submodule "capi-autoscaler"]
+	path = capi-autoscaler
+	url = ../capi-autoscaler.git

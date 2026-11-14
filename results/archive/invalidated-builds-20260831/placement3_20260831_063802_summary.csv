@@ -1,0 +1,7 @@
+autoscaler,scenario,pod_count,profile,run_num,run_id,latency_s,first_unschedulable_s,all_scheduled_s,all_running_s,worker_nodes,workload_cpu_util_pct,workload_mem_util_pct,cost_per_hour,instance_counts,timed_out
+capi-autoscaler,unconstrained-25,25,unconstrained,1,unconstrained-25-1-6b7729,153.15507420597714,7.062700395996217,153.15507047899882,153.15507420597714,8,72.9,68.9,1.105,m6i.large=6;r5.2xlarge=1;r5.xlarge=1,False
+capi-autoscaler,unconstrained-25,25,unconstrained,2,unconstrained-25-2-5578dc,429.84844808100024,12.131273373001022,429.8484447769879,429.84844808100024,8,72.9,65.2,1.135,m6i.large=5;r5.2xlarge=1;r5.large=1;r5.xlarge=1,False
+capi-autoscaler,unconstrained-50,50,unconstrained,1,unconstrained-50-1-b35fc5,223.4582671370008,14.486978364991955,223.45826599901193,223.4582671370008,23,43.1,38.9,3.113,m6i.large=18;r5.2xlarge=5,False
+capi-autoscaler,unconstrained-50,50,unconstrained,2,unconstrained-50-2-a18bce,374.0731436670176,5.3950832310074475,374.073140137014,374.0731436670176,12,78.0,68.3,1.695,m6i.large=9;r5.2xlarge=3,False
+capi-autoscaler,unconstrained-100,100,unconstrained,1,unconstrained-100-1-37e0e9,198.6962970729801,5.577683296985924,198.69629555699066,198.6962970729801,47,42.5,38.6,6.322,m6i.large=37;r5.2xlarge=10,False
+capi-autoscaler,unconstrained-100,100,unconstrained,2,unconstrained-100-2-92b008,182.8987040949869,5.44836694697733,182.89870246397913,182.8987040949869,47,42.5,38.6,6.322,m6i.large=37;r5.2xlarge=10,False
